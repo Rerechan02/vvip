@@ -36,15 +36,6 @@
 
 <img src="https://img.shields.io/badge/1core-vCPU-lightgrey"> <img src="https://img.shields.io/badge/1GB-RAM-lightgrey"> <img src="https://img.shields.io/badge/10GB-Storage-lightgrey">
 <br>
-
-# AUTOSCRIPT V2 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRerechan02%2Fscvpn2&count_bg=%2379C83D&title_bg=%23555555&icon=monster.svg&icon_color=%23FF0000&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com) 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rerechan02/scvpn2&count_bg=%2379C83D&title_bg=%23555555&icon=angularjs.svg&icon_color=%23FF0000&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com) 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRerechan02%2Fscvpn2&count_bg=%2379C83D&title_bg=%23555555&icon=notion.svg&icon_color=%2301021C&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com) 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRerechan02%2Fscvpn2&count_bg=%2379C83D&title_bg=%23555555&icon=t-mobile.svg&icon_color=%23FAC805&title=Di+Lihat&edge_flat=true)](https://hits.seeyoufarm.com) 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rerechan02/scvpn2&count_bg=%2379C83D&title_bg=%23555555&icon=angular.svg&icon_color=%2338FF00&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com) 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rerechan02/scvpn2&count_bg=%2379C83D&title_bg=%23555555&icon=pixiv.svg&icon_color=%2300BDFF&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <p align="center">
 </p>
 <h2 align="center">VPN</h2>

@@ -87,23 +87,21 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn2/main/setup.sh && chmod 
 
 # SERVICE PORT SSH
 - SSH OpenSSH      : **22**
-- SSH Dropbear     : **109, 143**
-- SSH DIRECT       : **22**
+- Nginx            : **81**
 - SSH WS HTTP      : **80**
 - SSH WS SSL/TLS   : **443**
-- STUNNEL4         : **8443, 8880**
-- SSY SLOWDNS      : **443, 80, 53, 5300, 222**
-- BadVPN/UDPGW     : **7200, 7300**
-- Nginx            : **81**
 - Udp-Custom       : **1-65535**
+- BadVPN/UDPGW     : **7200, 7300**
+- STUNNEL4         : **8443, 8880**
+- DNSTT SLOWDNS    : **443, 80, 53, 5300, 222**
 
 # SERVICE PORT XRAY
+- VMESS WS [HTTP]  : **80, 8080**
+- VLESS WS [HTTP]  : **80, 8080**
 - TROJAN WS        : **443**
 - TROJAN GRPC      : **443**
-- VMESS WS [HTTPS] : **443, 80**
-- VMESS WS [HTTP]  : **80, 8080**
+- VMESS WS [HTTPS] : **443**
 - VMESS GRPC       : **443**
-- VLESS WS [HTTP]  : **80, 8080**
 - VLESS WS [HTTPS] : **443**
 - VLESS GRPC       : **443**
 

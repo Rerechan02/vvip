@@ -91,45 +91,31 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn2/main/setup.sh && chmod 
 - SSH DIRECT       : **22**
 - SSH WS HTTP      : **80**
 - SSH WS SSL/TLS   : **443**
-- STUNNEL4         : **843, 5222**
-- SSY SLOWDNS      : **ALL PORT SSH ( COMING SOON )**
-- BadVPN/UDPGW     : **7100 - 7300**
+- STUNNEL4         : **8443, 8880**
+- SSY SLOWDNS      : **443, 80, 53, 5300, 222**
+- BadVPN/UDPGW     : **7200, 7300**
 - Nginx            : **81**
-- Udp-Custom       : **1-2288 ( COMING SOON )**
+- Udp-Custom       : **1-65535**
 
 # SERVICE PORT XRAY
 - TROJAN WS        : **443**
 - TROJAN GRPC      : **443**
-- VMESS WS         : **443, 80**
+- VMESS WS [HTTPS] : **443, 80**
+- VMESS WS [HTTP]  : **80, 8080**
 - VMESS GRPC       : **443**
-- VLESS WS         : **443, 80**
+- VLESS WS [HTTP]  : **80, 8080**
+- VLESS WS [HTTPS] : **443**
 - VLESS GRPC       : **443**
-- OPOK TSEL        : **/worryfree**
-- DYNAMIC PATH     : **COMING SOON**
 
 # NOTE
-- Udp Custom only compatible with H.C v4.6.14(529) ( COMING SOON )
-- SLOWDNS BETA TESTER ( COMINN SOON )
-- OTOMATIS DELLETE AKUN EXP BLM TERSEDIA
-- HAPUS AKUN YANG SUDAH EXP MANUAL
+- Udp Custom only compatible with H.C v4.6.14(529)
+- SLOWDNS BETA TESTER
+- BACKUP & RESTORE
+- CEK RUNNING SERVICE
+- CEK USER LOGIN ACCOUNT
+- UDP REQUEST ( COMING SOON )
 - AUTO POINTING DOMAIN
-- MEMILIKI 5 TAMPILAN MENU YANG DAPAT DI GANTI PADA MENU SETING PILIHAN NOMOR 11
 ---
- <br> 
-
-#SETING CLOUDFLARE<br>
-HOW TO SETUP DOMAIN IN CLOUDFLARE PANEL<b><details><summary>SETING</summary></b>
-<p align="center"><div align="center">
-SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS) <br>
- 
-  ![image](https://user-images.githubusercontent.com/82468311/191471897-986ebe25-5330-4997-8a44-5468b422482a.png) <br> 
-  
- ![image](https://user-images.githubusercontent.com/82468311/191472903-b55cd39a-8909-4f7c-b3ad-013cb3c91282.png) 
- ![networkcf](https://github.com/adisubagja/AutoScriptXray/blob/master/img/network-cf.jpg?raw=true)
-  
-<p>
-</details>
-
  <br>
 
 #Daftarkan Ip

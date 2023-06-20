@@ -75,11 +75,11 @@ sudo -i
 
 |        Link         |  Command  | 
  |---------------------|-------------------| 
- | via WGET | `wget https://raw.githubusercontent.com/Rerechan02/scvpn2/main/setup.sh && chmod +x setup.sh && ./setup.sh` | 
+ | via WGET | `wget https://raw.githubusercontent.com/Rerechan02/vvip/main/setup.sh && chmod +x setup.sh && ./setup.sh` | 
  
 
 ```
-wget https://raw.githubusercontent.com/Rerechan02/scvpn2/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/Rerechan02/vvip/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 <br>
 ♦️ jika dropbear off akibat  install sc berulang ulang, copas d link dibawah 

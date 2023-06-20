@@ -116,17 +116,23 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn2/main/setup.sh && chmod 
 ---
  <br>
 
-#Daftarkan Ip
+# Pricelist 
+ ```1 Month / Bulan``` 
+ > 1 ip = $2 / 15k 
+  
+ > 3 ip = $4 / 40k 
+  
+ > 5 ip = $6 / 60k 
+  
+ ```Lifetime``` 
+ > 1 ip = $6 / 60k 
+  
+ > 3 ip = $9 / 90k 
+  
+ > 5 ip = $12 / 120k
 <br>
-Untuk Script Ini Gratis Namun Anda Harus Mendaftarkan Ip VPS anda terlebih dahulu silahka hubungi di bawah ini
-<b><details><summary>Contact Me</summary></b>
-<p align="center">
-
 <p>
 <a href="https://t.me/Rerechan02" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-
-
-
 <a href="https://wa.me/6283120684925" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=WhatsApp&label=WhatsApp&message=click%20here&color=green"></a><br>
  </p> 
 <br>

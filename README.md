@@ -79,7 +79,7 @@ sudo -i
  
 
 ```
-wget https://raw.githubusercontent.com/Rerechan02/vvip/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/Rerechan02/v/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 <br>
 ♦️ jika dropbear off akibat  install sc berulang ulang, copas d link dibawah 

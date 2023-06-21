@@ -90,7 +90,7 @@ wget https://raw.githubusercontent.com/Rerechan02/v/main/setup.sh && chmod +x se
 - Nginx            : **81**
 - SSH WS HTTP      : **80**
 - SSH WS SSL/TLS   : **443**
-- Udp-Custom       : **1-65535**
+- Udp-Custom       : **7100-7900, 500-6000**
 - BadVPN/UDPGW     : **7200, 7300**
 - STUNNEL4         : **8443, 8880**
 - DNSTT SLOWDNS    : **443, 80, 53, 5300, 222**

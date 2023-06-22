@@ -91,6 +91,8 @@ wget https://raw.githubusercontent.com/Rerechan02/v/main/setup.sh && chmod +x se
 - SSH WS HTTP      : **80**
 - SSH WS SSL/TLS   : **443**
 - Udp-Custom       : **7100-7900, 500-6000**
+- Udp-Request      : **1-65535**
+- Udp-Zivpn        : **all port allow in vps**
 - BadVPN/UDPGW     : **7200, 7300**
 - STUNNEL4         : **8443, 8880**
 - DNSTT SLOWDNS    : **443, 80, 53, 5300, 222**
@@ -106,13 +108,15 @@ wget https://raw.githubusercontent.com/Rerechan02/v/main/setup.sh && chmod +x se
 - VLESS GRPC       : **443**
 
 # NOTE
-- Udp Custom only compatible with H.C v4.6.14(529)
-- SLOWDNS BETA TESTER
-- BACKUP & RESTORE
-- CEK RUNNING SERVICE
-- CEK USER LOGIN ACCOUNT
-- UDP REQUEST ( COMING SOON )
-- AUTO POINTING DOMAIN
+- Udp Custom only compatible with H.C
+- Udp Zivpn Only Server
+- Udp Request only compatible with SOCKSIP
+- SLOWDNS BETA TESTER ( SSH / XRAY / TROJAN )
+- BACKUP & RESTORE VPS WITH R CLONE & ZIP
+- CEK RUNNING SERVICE TO CEK ALL SERVICE STATUS
+- CEK USER LOGIN ACCOUNT TO CEK IP LOGIN IN ACCOUNT
+- AUTO POINTING SUBDOMAIN TO DONAIN free.funy.biz.id
+- CEK SERVICE & PORT SERVICE TO CEK ALL SERVICE & STATUS ORDER
 ---
  <br>
 
@@ -131,6 +135,8 @@ wget https://raw.githubusercontent.com/Rerechan02/v/main/setup.sh && chmod +x se
   
  > 5 ip = $12 / 120k
 <br>
+> Payment To Rent Script:
+- DANA / OVO / GOPAY / QRIS / PAYPAL
 <p>
 <a href="https://t.me/Rerechan02" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 <a href="https://wa.me/6283120684925" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=WhatsApp&label=WhatsApp&message=click%20here&color=green"></a><br>

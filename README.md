@@ -135,7 +135,7 @@ wget https://raw.githubusercontent.com/Rerechan02/v/main/setup.sh && chmod +x se
   
  > 5 ip = $12 / 120k
 <br>
- # Payment To rent script:
+# Payment To rent script:
  
  > DANA 
   

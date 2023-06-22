@@ -135,12 +135,16 @@ wget https://raw.githubusercontent.com/Rerechan02/v/main/setup.sh && chmod +x se
   
  > 5 ip = $12 / 120k
 <br>
-<br>
----
-# >Payment To Rent Script:
-<br>
-- DANA / OVO / GOPAY / QRIS / PAYPAL
-<br>
+ ```Payment To rent script:``` 
+ > DANA 
+  
+ > OVO
+
+ > GOPAY
+  
+ > QRIS
+
+ > PAYPAL
 <br>
 <p>
 <a href="https://t.me/Rerechan02" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>

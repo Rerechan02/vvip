@@ -54,7 +54,7 @@ sudo -i
 ***2. UPDATE VPS***
 
 ```
-apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+apt-get update ; apt-get -y install socat ; apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y install xxd && apt install -y bzip2 && apt install -y curl && apt install -y zip unzip && apt install -y wget && apt install -y curl && apt install -y vim shc python python2 python3 && reboot
 ```
 - VPS Otomatis Akan Reboot/ Hidupkan Ulang VPS
 
